@@ -1,5 +1,5 @@
 # Laboration 2: Objektorienterad Programmering - Othello-spel
-
+Labs done in pair with [11Johan11](https://www.github.com/11Johan11)
 ## Kurs: Objektorienterad Programutveckling (TOCK12) - Hösten 2022
 
 ## Inledning
